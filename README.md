@@ -113,8 +113,6 @@ A sleek desktop application to manage personal finances efficiently. Track, visu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeetChowdhury-2004&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetChowdhury-2004&layout=compact&theme=radical)
-
 ---
 
 <!-- --------------------------- CONNECT --------------------------- -->
